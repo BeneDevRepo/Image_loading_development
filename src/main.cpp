@@ -12,6 +12,8 @@
 #include "ImageLoading/BMPloader.h"
 #include "ImageLoading/PNGloader.h"
 
+//testCommit
+
 int main() {
     Window win(800, 600);
 	// Texture* imgTexture = loadBMP("../data/bmp_1.bmp"); // 1 bitPerPixel   monochrome
